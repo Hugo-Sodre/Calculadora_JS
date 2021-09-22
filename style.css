@@ -1,0 +1,7 @@
+.container {
+  display: inline-flex;
+
+  background-color: lightgray;
+  position: relative;
+  left: 20rem;
+}
